@@ -7,7 +7,7 @@ https://www.linkedin.com/in/santhosh-kumar-profile1/
 # Installation: 
 Type the following in the terminal.
 
-`https://github.com/Santhosh-root/XSS-Tracker`
+`git clone https://github.com/Santhosh-root/XSS-Tracker`
 
 The tool works on Python 2.7 and you should have mechanize installed. If mechanize is not installed, type "pip install mechanize" in the terminal.
 
