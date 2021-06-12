@@ -37,5 +37,4 @@ With this tool, Cross Site Scripting vulnerabilities have been found in the webs
 
 
 Best Regards
-
 Santhosh Kumar
